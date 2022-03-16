@@ -1,0 +1,23 @@
+.my {
+    background-color: black;
+    text-align: left;
+    color: white;
+}
+h1 span {
+    color: cyan;
+}
+.com{
+    text-align: center;
+    background-color: rebeccapurple;
+    font-style: italic;
+    color: white;
+}
+.con{
+    background-color: lightblue;
+    color: darkblue;
+    text-decoration: underline;
+    text-align: right;
+}
+p span {
+    color: darkgreen;    
+}
